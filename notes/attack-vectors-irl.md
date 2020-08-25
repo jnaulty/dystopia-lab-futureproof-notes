@@ -62,6 +62,7 @@ Only fullproof way to prevent coercion is to not access your keys.
 - fake airdrops
 
 ## Bitcoin's greatest threat
+
 - The User:
   - lost bitcoins
     - password reuse

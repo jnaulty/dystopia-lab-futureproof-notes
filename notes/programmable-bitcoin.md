@@ -1,6 +1,13 @@
-# Programmable Bitcoin
+# Programmable BTC: Using The Reserve Cryptocurrency In Predictable Smart Contracts
 
-Muneeb Ali, CEO of Blockstack:
+```
+
+12:00pm - 12:30pm PT
+Muneeb Ali, Co-founder of Blockstack:
+Programmable BTC: Using The Reserve Cryptocurrency In Predictable Smart Contracts
+
+```
+
 
 ## Bitcoin -- The Secure Base
 
@@ -29,5 +36,6 @@ ethereum:
 - expressivity is high as well
 
 ## Stacks 2.0
+
 ## Clarity Language
 
